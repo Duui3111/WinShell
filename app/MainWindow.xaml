@@ -1,0 +1,31 @@
+﻿<Window x:Class="WinShellTerminal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WinShellTerminal"
+        mc:Ignorable="d"
+        Title="WinShell Terminal" Height="450" Width="800">
+    <Grid>
+        <local:Terminal x:Name="Term" 
+                       FontFamily="Courier New" 
+                       IsPromptInsertedAtLaunch="False" 
+                       IsSystemBeepEnabled="True"
+                       VerticalScrollBarVisibility="Auto"
+                       BorderThickness="0"
+                       TextWrapping="Wrap">
+
+            <local:Terminal.Background>
+                <SolidColorBrush Color="Black"></SolidColorBrush>
+            </local:Terminal.Background>
+
+            <local:Terminal.Foreground>
+                <SolidColorBrush Color="White"></SolidColorBrush>
+            </local:Terminal.Foreground>
+
+            <local:Terminal.BorderBrush>
+                <SolidColorBrush Color="Transparent"></SolidColorBrush>
+            </local:Terminal.BorderBrush>
+        </local:Terminal>
+    </Grid>
+</Window>

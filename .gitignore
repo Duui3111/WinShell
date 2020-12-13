@@ -1,0 +1,11 @@
+bin/
+build/
+
+app/[Dd]ebug/
+app/[Rr]elease/
+app/[Bb]in/
+app/[Oo]bj/
+
+cal.exe
+testasm.asm
+shell.exe
