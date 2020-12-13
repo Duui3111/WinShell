@@ -1,31 +1,31 @@
-[![Contributors](https://img.shields.io/github/contributors/duui3111/winshell.svg?style=for-the-badge)](https://github.com/Duui3111/winshell/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/duui3111/winshell.svg?style=for-the-badge)](https://github.com/duui3111/winshell/network/members)
-[![Stargazers](https://img.shields.io/github/stars/duui3111/winshell.svg?style=for-the-badge)](https://github.com/duui3111/winshell/stargazers)
-[![Issues](https://img.shields.io/github/issues/duui3111/winshell.svg?style=for-the-badge)](https://github.com/duui3111/winshell/issues)
-[![MIT License](https://img.shields.io/github/license/duui3111/winshell.svg?style=for-the-badge)](https://github.com/duui3111/winshell/License)
-[![Github All Releases](https://img.shields.io/github/downloads/duui3111/winshell/total.svg?style=for-the-badge)]()
+[![Contributors](https://img.shields.io/github/contributors/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/Duui3111/WinShell/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/network/members)
+[![Stargazers](https://img.shields.io/github/stars/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/stargazers)
+[![Issues](https://img.shields.io/github/issues/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/issues)
+[![MIT License](https://img.shields.io/github/license/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/License)
+[![Github All Releases](https://img.shields.io/github/downloads/duui3111/WinShell/total.svg?style=for-the-badge)]()
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/duui3111/winshell">
+  <a href="https://github.com/duui3111/WinShell">
     <img src="images/logo2.ico" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">winshell</h3>
+  <h3 align="center">WinShell</h3>
 
   <p align="center">
-    shell for windows with a termenal and the wsh language wich can be run with winshell
+    shell for windows with a termenal and the wsh language wich can be run with WinShell
     <br />
-    <a href="https://github.com/Duui3111/winshell/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Duui3111/WinShell/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Duui3111/winshell/blob/main/images/demo.gif">View Demo</a>
+    <a href="https://github.com/Duui3111/WinShell/blob/main/images/demo.gif">View Demo</a>
     ·
-    <a href="https://github.com/duui3111/winshell/issues">Report Bug</a>
+    <a href="https://github.com/duui3111/WinShell/issues">Report Bug</a>
     ·
-    <a href="https://github.com/duui3111/winshell/issues">Request Feature</a>
+    <a href="https://github.com/duui3111/WinShell/issues">Request Feature</a>
   </p>
 </p>
 <br>
@@ -34,7 +34,7 @@
 
 ## about the project
 
-[![Product Name Screen Shot](images/prompt2.PNG)](https://github.com/Duui3111/winshell)
+[![Product Name Screen Shot](images/prompt2.PNG)](https://github.com/Duui3111/WinShell)
 
 ### Built With
 you will need to have this to build WinShell
@@ -80,7 +80,7 @@ on how to run wsh languge
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Duui3111/winshell/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Duui3111/WinShell/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -99,4 +99,3 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the pache-2.0 License License. See `LICENSE` for more information.
-
