@@ -2,7 +2,7 @@
 [![Forks](https://img.shields.io/github/forks/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/network/members)
 [![Stargazers](https://img.shields.io/github/stars/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/stargazers)
 [![Issues](https://img.shields.io/github/issues/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/issues)
-[![MIT License](https://img.shields.io/github/license/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/Duui3111/WinShell/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/duui3111/winshell.svg?style=for-the-badge)](https://github.com/Duui3111/WinShell/blob/main/LICENSE)
 [![Github All Releases](https://img.shields.io/github/downloads/duui3111/WinShell/total.svg?style=for-the-badge)]()
 
 
