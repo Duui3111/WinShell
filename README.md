@@ -4,7 +4,7 @@
 [![Issues](https://img.shields.io/github/issues/duui3111/WinShell.svg?style=for-the-badge)](https://github.com/duui3111/WinShell/issues)
 [![MIT License](https://img.shields.io/github/license/Duui3111/WinShell.svg?style=for-the-badge)](https://github.com/Duui3111/WinShell/blob/main/LICENSE)
 [![Github All Releases](https://img.shields.io/github/downloads/duui3111/WinShell/total.svg?style=for-the-badge)]()
-[![Visits Badge](https://badges.pufler.dev/visits/Duui3111/Winshell)](https://github.com/Duui3111/WinShell)
+[![Visits Badge](https://badges.pufler.dev/visits/Duui3111/Winshell?style=for-the-badge)](https://github.com/Duui3111/WinShell)
 
 
 
