@@ -1,4 +1,0 @@
-- name: GitHub Spellcheck Action
-  # You may pin to the exact commit or the version.
-  # uses: rojopolis/spellcheck-github-actions@ce04b2f7285f4ab44d6fee455f5cd6f1317d21cf
-  uses: rojopolis/spellcheck-github-actions@0.6.0
